@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Devops
+project.version=6.5
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=fe494ec7-fc37-44de-ab5d-9bd8de47e620
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/crisdarmu/neoload_collaboration.git
